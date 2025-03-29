@@ -1,0 +1,1 @@
+nuitka --standalone --onefile --remove-output sos-build.py
